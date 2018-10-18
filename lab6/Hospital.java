@@ -2,8 +2,8 @@ package com.company.lab6;
 
 public class Hospital {
     String name;
-    String hospitaladdress;
-    Integer hospitalphone;
+    Address hospitaladdress;
+    Phone hospitalphone;
 
     Person []person1;
 }
